@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/Programming in C/PSAP Course Project"
+		},
+		{
+			"path": "../../../OneDrive/Desktop/Programming in C/PSAP Lab"
+		},
+		{
+			"path": "../../../OneDrive/Desktop/Programming in C/Python"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"typeinfo": "c"
+		}
+	}
+}

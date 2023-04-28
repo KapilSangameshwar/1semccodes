@@ -1,0 +1,2 @@
+Student no 1 has name Kapil, roll 32 and marks 98.000000 
+Student no 2 has name sarga, roll 646 and marks 165645.000000 
